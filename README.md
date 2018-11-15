@@ -1,2 +1,0 @@
-# queueinfo
-queue info lambda
